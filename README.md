@@ -1,11 +1,11 @@
 # API de Produtos em MVC (Node.js + MySQL)
 
 Aluno: Gustavo Vieira do Nascimento
-Turma: (coloque a turma)
+Turma: 3ndn
 
-Atividade Prática 02 de PW3: a API de produtos da atividade anterior foi refatorada para o padrão MVC.
+Atividade PW3, a API de produtos da atividade anterior foi refatorada para o padrão MVC.
 
-## Como rodar
+Como rodar
 
 1. Instale as dependências com `npm install`.
 2. Rode o `schema.sql` no MySQL para criar o banco `loja_mvc` e a tabela `produtos`.
